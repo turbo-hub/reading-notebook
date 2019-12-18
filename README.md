@@ -46,6 +46,7 @@ Chapter 3. The Architecture of Apache Flink
 
 9.Checkpoints, Savepoints, and State Recovery 检查点、保存点、和状态恢复
 Summary 总结
+
 --------------------------------------------------------------------
 
 
