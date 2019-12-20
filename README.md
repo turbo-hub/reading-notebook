@@ -6,50 +6,59 @@ Fabian Hueske and Vasiliki Kalavri 著
 
 Chapter 1：Introduction to Stateful Stream Processing  
 第一章：介绍有状态的流处理  
-1.Traditional Data Infrastructures 传统数据架构
+1.传统数据架构 Traditional Data Infrastructures 
 
-2.Stateful Stream Processing 有状态的流处理
+2.有状态的流处理 Stateful Stream Processing 
 
-3.The Evolution of Open Source Stream Processing 开源流处理的发展
+3.开源流处理的发展 The Evolution of Open Source Stream Processing 
 
-4.A Quick Look at Flink 快速了解flink
+4.快速了解flink A Quick Look at Flink 
 
 --------------------------------------------------------------------
 Chapter 2. Stream Processing Fundamentals  
 第二章：流处理的基本原理  
-1.Introduction to Dataflow Programming 介绍dataflow编程模型
+1.介绍dataflow编程模型 Introduction to Dataflow Programming 
 
-2.Processing Streams in Parallel 并行化流处理
+2.并行化流处理 Processing Streams in Parallel 
 
-3.Time Semantics 时间语义
+3.时间语义 Time Semantics 
 
-4.State and Consistency Models 状态和一致性模型
-Summary 总结
+4.状态和一致性模型 State and Consistency Models 
+总结 Summary 
 
 --------------------------------------------------------------------
 Chapter 3. The Architecture of Apache Flink  
 第三章：apache flink的结构  
-1.System Architecture 系统层面架构
+1.系统层面架构 System Architecture  
 
-2.Components of a Flink Setup flink组件
+2.flink组件 Components of a Flink Setup  
 
-3.Application Deployment 程序的部署模式
+3.程序的部署模式 Application Deployment  
 
-4.Task Execution 任务执行
+4.任务执行 Task Execution  
 
-5.Highly Available Setup 高可用设置
+5.高可用设置 Highly Available Setup  
 
-6.Data Transfer in Flink flink中的数据传输
+6.flink中的数据传输 Data Transfer in Flink  
 
-7.Event-Time Processing 事件时间处理
+7.事件时间处理 Event-Time Processing  
 
-8.State Management 状态管理
+8.状态管理State Management   
 
-9.Checkpoints, Savepoints, and State Recovery 检查点、保存点、和状态恢复
-Summary 总结
+9.检查点、保存点、和状态恢复 Checkpoints, Savepoints, and State Recovery 
+总结 Summary 
 
 --------------------------------------------------------------------
+Chapter 4.Setting Up a Development Environment for Apache Flink  
+第四章：配置flink开发环境  
+1.需要的软件 Required Software  
 
+2.在ide中调试和运行flink程序 Run and Debug Flink Applications in an IDE  
+
+3.引导flink maven项目 Bootstrap a Flink Maven Project  
+总结 Summary  
+
+--------------------------------------------------------------------
 
 
 
