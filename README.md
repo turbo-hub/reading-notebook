@@ -58,7 +58,24 @@ Chapter 4.Setting Up a Development Environment for Apache Flink
 3.引导flink maven项目 Bootstrap a Flink Maven Project  
 总结 Summary  
 
---------------------------------------------------------------------
+--------------------------------------------------------------------  
+Chapter 5. The DataStream API (v1.7)  
+第五章：DataStream API（1.7版本）  
+1.Hello, Flink!  
+
+2.转换 Transformations  
+
+3.设置并行度 Setting the Parallelism  
+
+4.类型 Types  
+
+5.定义key和引用字段 Defining Keys and Referencing Fields  
+
+6.实现函数  Implementing Functions  
+
+7.链接外部和flink的依赖 Including External and Flink Dependencies  
+总结 Summary  
+
 
 
 
