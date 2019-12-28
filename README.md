@@ -1,8 +1,8 @@
 # reading-notebook
 读书笔记  
-
-<<stream processing with apache flink>>  
-Fabian Hueske and Vasiliki Kalavri 著  
+  
+书名：stream processing with apache flink  
+作者：Fabian Hueske and Vasiliki Kalavri 著   
 
 Chapter 1：Introduction to Stateful Stream Processing  
 第一章：介绍有状态的流处理  
@@ -75,6 +75,8 @@ Chapter 5. The DataStream API (v1.7)
 
 7.链接外部和flink的依赖 Including External and Flink Dependencies  
 总结 Summary  
+
+--------------------------------------------------------------------  
 
 
 
