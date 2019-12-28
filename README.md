@@ -1,5 +1,6 @@
 # reading-notebook
 读书笔记  
+注：如遇文件打不开 重新刷新一下网址 一般等一会就可以看到了 如果还不行就直接clone到本地打开 内容绝不会让你失望哦  
   
 书名：stream processing with apache flink  
 作者：Fabian Hueske and Vasiliki Kalavri 著   
