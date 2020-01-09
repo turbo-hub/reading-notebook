@@ -1,7 +1,37 @@
+
+注：如遇文件打不开 重新刷新一下网址  
+一般等一会就可以看到了 或者换个浏览器  
+如果依然无法打开，一般都是dns解析问题，可以修改本地host来完成解析  
+方法如下  
+1. windows：C:\Windows\System32\drivers\etc\hosts  
+   mac: sudo vim /etc/hosts  
+2. 然后添加如下映射   
+#GitHub start  
+192.30.253.112    github.com  
+192.30.253.119    gist.github.com  
+151.101.184.133    assets-cdn.github.com  
+151.101.184.133    raw.githubusercontent.com  
+151.101.184.133    gist.githubusercontent.com  
+151.101.184.133    cloud.githubusercontent.com  
+151.101.184.133    camo.githubusercontent.com  
+151.101.184.133    avatars0.githubusercontent.com  
+151.101.184.133    avatars1.githubusercontent.com  
+151.101.184.133    avatars2.githubusercontent.com  
+151.101.184.133    avatars3.githubusercontent.com  
+151.101.184.133    avatars4.githubusercontent.com  
+151.101.184.133    avatars5.githubusercontent.com  
+151.101.184.133    avatars6.githubusercontent.com  
+151.101.184.133    avatars7.githubusercontent.com  
+151.101.184.133    avatars8.githubusercontent.com  
+#GitHub End  
+3.重新打开浏览器  
+
+
+
+============================== 我是分割线 ===================================
 # reading-notebook
-读书笔记  
-注：如遇文件打不开 重新刷新一下网址 一般等一会就可以看到了 如果还不行就直接clone到本地打开 内容绝不会让你失望哦  
-  
+读书笔记   
+
 书名：stream processing with apache flink  
 作者：Fabian Hueske and Vasiliki Kalavri 著   
 
@@ -78,7 +108,20 @@ Chapter 5. The DataStream API (v1.7)
 总结 Summary  
 
 --------------------------------------------------------------------  
+Chapter 6. Time-Based and Window Operators    
+第五章：时间语义和窗口算子  
+1.配置时间语义 Configuring Time Characteristics    
 
+2.处理函数 Process Functions    
+
+3.窗口算子 Window Operators  
+
+4.按时间join流 Joining Streams on Time  
+
+5.处理延迟数据 Handling Late Data  
+总结 Summary  
+
+--------------------------------------------------------------------  
 
 
 
