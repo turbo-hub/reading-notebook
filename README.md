@@ -3,11 +3,9 @@
 一般等一会就可以看到了 或者换个浏览器  
 如果依然无法打开，一般都是dns解析问题，可以修改本地host来完成解析  
 方法如下  
-
-windows：C:\Windows\System32\drivers\etc\hosts  
-mac: sudo vim /etc/hosts  
-然后添加如下映射  
-
+1. windows：C:\Windows\System32\drivers\etc\hosts  
+   mac: sudo vim /etc/hosts  
+2. 然后添加如下映射   
 #GitHub start  
 192.30.253.112    github.com  
 192.30.253.119    gist.github.com  
@@ -25,7 +23,8 @@ mac: sudo vim /etc/hosts
 151.101.184.133    avatars6.githubusercontent.com  
 151.101.184.133    avatars7.githubusercontent.com  
 151.101.184.133    avatars8.githubusercontent.com  
-#GitHub End  
+#GitHub End
+3.重新打开浏览器  
 
 
 
