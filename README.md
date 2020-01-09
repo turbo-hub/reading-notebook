@@ -1,6 +1,8 @@
 # reading-notebook
 读书笔记  
-注：如遇文件打不开 重新刷新一下网址 一般等一会就可以看到了 如果还不行就直接clone到本地打开 内容绝不会让你失望哦  
+注：如遇文件打不开 重新刷新一下网址  
+一般等一会就可以看到了 或者换个浏览器  
+如果还不行就直接clone到本地打开 内容绝不会让你失望哦  
   
 书名：stream processing with apache flink  
 作者：Fabian Hueske and Vasiliki Kalavri 著   
@@ -78,7 +80,20 @@ Chapter 5. The DataStream API (v1.7)
 总结 Summary  
 
 --------------------------------------------------------------------  
+Chapter 6. Time-Based and Window Operators    
+第五章：时间语义和窗口算子  
+1.配置时间语义 Configuring Time Characteristics    
 
+2.处理函数 Process Functions    
+
+3.窗口算子 Window Operators  
+
+4.按时间join流 Joining Streams on Time  
+
+5.处理延迟数据 Handling Late Data  
+总结 Summary  
+
+--------------------------------------------------------------------  
 
 
 
