@@ -1,11 +1,13 @@
-# reading-notebook
+
 注：如遇文件打不开 重新刷新一下网址  
 一般等一会就可以看到了 或者换个浏览器  
 如果依然无法打开，一般都是dns解析问题，可以修改本地host来完成解析  
 方法如下  
+
 windows：C:\Windows\System32\drivers\etc\hosts  
 mac: sudo vim /etc/hosts  
 然后添加如下映射  
+
 #GitHub start  
 192.30.253.112    github.com  
 192.30.253.119    gist.github.com  
@@ -27,7 +29,9 @@ mac: sudo vim /etc/hosts
 
 
 
-读书笔记  
+================================================我是分割线====================================================================  
+# reading-notebook
+读书笔记   
 
 书名：stream processing with apache flink  
 作者：Fabian Hueske and Vasiliki Kalavri 著   
