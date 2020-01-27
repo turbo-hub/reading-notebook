@@ -54,7 +54,7 @@ Chapter 2. Stream Processing Fundamentals
 
 3.时间语义 Time Semantics 
 
-4.状态和一致性模型 State and Consistency Models 
+4.状态和一致性模型 State and Consistency Models  
 总结 Summary 
 
 --------------------------------------------------------------------
@@ -76,7 +76,7 @@ Chapter 3. The Architecture of Apache Flink
 
 8.状态管理State Management   
 
-9.检查点、保存点、和状态恢复 Checkpoints, Savepoints, and State Recovery 
+9.检查点、保存点、和状态恢复 Checkpoints, Savepoints, and State Recovery  
 总结 Summary 
 
 --------------------------------------------------------------------
