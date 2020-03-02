@@ -5,11 +5,11 @@
 # reading-notebook 
 ## 项目介绍：经典书籍 读书笔记
 
-1.书名：stream processing with apache flink  
-  作者：Fabian Hueske and Vasiliki Kalavri 著  
+### 1.书名：stream processing with apache flink  
+### 作者：Fabian Hueske and Vasiliki Kalavri 著  
 
-2.统计学习方法 第二版  
-  作者：李航
+### 2.统计学习方法 第二版  
+### 作者：李航
   
 ============================== 我是分割线 ===================================  
 注：由于文件都是pdf形式，所以打开会比较慢，如遇文件打不开 重新刷新一下网址，一般等一会就可以看到了 或者换个浏览器
@@ -38,10 +38,3 @@
 151.101.184.133    avatars8.githubusercontent.com  
 #GitHub End  
 3.重新打开浏览器  
-
-
-
-
- 
-
-
