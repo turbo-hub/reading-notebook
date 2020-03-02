@@ -26,14 +26,15 @@
 #GitHub End  
 3.重新打开浏览器  
 
-
-
 ============================== 我是分割线 ===================================
-# reading-notebook
-读书笔记   
+# reading-notebook 
+# 项目介绍：经典书籍 读书笔记
 
-书名：stream processing with apache flink  
-作者：Fabian Hueske and Vasiliki Kalavri 著   
+1.书名：stream processing with apache flink  
+  作者：Fabian Hueske and Vasiliki Kalavri 著 
+
+2.统计学习方法 第二版  
+  作者：李航
 
 
 
