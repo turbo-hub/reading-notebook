@@ -5,7 +5,7 @@
 # reading-notebook 
 ## 项目介绍：经典书籍 读书笔记
 --
-#### 1.书名：stream processing with apache flink  
+#### 1.stream processing with apache flink  
 #### 作者：Fabian Hueske and Vasiliki Kalavri 著  
 --
 #### 2.统计学习方法 第二版  
