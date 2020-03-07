@@ -87,3 +87,59 @@ Chapter 6. Time-Based and Window Operators
 总结 Summary  
 
 --------------------------------------------------------------------
+Chapter 7. Stateful Oprators and Applications
+第七章：有状态的算子和程序  
+1.实现有状态的fun Implementing Stateful Functions  
+
+2.对有状态的应用程序启用故障恢复 Enabling Failure Recovery for Stateful Applications  
+
+3.确保程序状态的可维护性 Ensuring the Maintainability of Stateful Applications  
+
+4.有状态的应用程序性能和健壮性 Performance and Robustness of Stateful Applications  
+
+5.升级有状态的应用 Evolving Stateful Applications  
+
+6. 可查询的状态 Queryable State  
+
+--------------------------------------------------------------------  
+Chapter 8.Reading from and Writing to External Systems
+第八章：读写外部系统
+1.应用程序的一致性保证 Application Consistency Guarantees  
+
+2.内置的连接器 Provided Connectors   
+
+3.实现自定义的source函数  Implementing a Custom Source Function  
+
+4.实现自定义的sink函数 Implementing a Custom Sink Function    
+
+5.异步访问外部系统 Asynchronously Accessing External Systems 
+
+--------------------------------------------------------------------  
+Chapter 9. Setting Up Flink for Streaming Applications
+第九章：为流程序配flink
+1.部署模式 Deployment Modes  
+
+2.高可用配置  Highly Available Setups  
+
+3.与Hadoop组件集成 Integration with Hadoop Components  
+
+2.高可用配置  Highly Available Setups  
+
+4.系统配置  System Configuration  
+
+--------------------------------------------------------------------  
+Chapter 10. Operating Flink and Streaming Applications
+第十章：运行flink和流程序  
+1.运行和管理程序 Running and Managing Streaming Applications  
+
+2.控制任务调度 Controlling Task Scheduling  
+
+3.优化checkpoint和恢复 Tuning Checkpointing and Recovery  
+
+4.flink集群和程序的监控 Monitoring Flink Clusters and Applications  
+
+5.配置日志行为 Configuring the Logging Behavior  
+
+--------------------------------------------------------------------
+Chapter 11 Where to Go from Here?
+第11章 发展方向  
